@@ -1,6 +1,6 @@
 # Airbnb Django API
 
-## New branch
+## Initial state of my app - reference for later.
 
 This is an API of my own Airbnb project, it is not an API from the original site.
 
